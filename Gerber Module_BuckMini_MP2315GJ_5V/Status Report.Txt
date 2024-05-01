@@ -1,0 +1,29 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Module_BuckMini_MP2315GJ_5V.PrjPcb]
+   Generated File[Module_BuckMini_MP2315GJ_5V.GTO]
+   Generated File[Module_BuckMini_MP2315GJ_5V.GTP]
+   Generated File[Module_BuckMini_MP2315GJ_5V.GTS]
+   Generated File[Module_BuckMini_MP2315GJ_5V.GTL]
+   Generated File[Module_BuckMini_MP2315GJ_5V.GBL]
+   Generated File[Module_BuckMini_MP2315GJ_5V.GBS]
+   Generated File[Module_BuckMini_MP2315GJ_5V.GBP]
+   Generated File[Module_BuckMini_MP2315GJ_5V.GBO]
+   Generated File[Module_BuckMini_MP2315GJ_5V.GM1]
+   Generated File[Module_BuckMini_MP2315GJ_5V.GM5]
+   Generated File[Module_BuckMini_MP2315GJ_5V.GM13]
+   Generated File[Module_BuckMini_MP2315GJ_5V.GM15]
+   Generated File[Module_BuckMini_MP2315GJ_5V.GKO]
+   Generated File[Module_BuckMini_MP2315GJ_5V.GPT]
+   Generated File[Module_BuckMini_MP2315GJ_5V.GPB]
+   Generated File[Module_BuckMini_MP2315GJ_5V.GD1]
+   Generated File[Module_BuckMini_MP2315GJ_5V.GG1]
+   Generated File[Module_BuckMini_MP2315GJ_5V.GM]
+   Generated File[Module_BuckMini_MP2315GJ_5V.EXTREP]
+   Generated File[Module_BuckMini_MP2315GJ_5V.REP]
+
+
+Files Generated   : 20
+Documents Printed : 0
+
+Finished Output Generation At 1:29:23 AM On 10/25/2023

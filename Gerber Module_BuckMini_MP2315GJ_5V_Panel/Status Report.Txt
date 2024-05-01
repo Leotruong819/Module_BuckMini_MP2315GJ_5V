@@ -1,0 +1,14 @@
+Source PCB Design Module_BuckMini_MP2315GJ_5V_Panel.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Module_BuckMini_MP2315GJ_5V.PrjPcb]
+   Generated File[Module_BuckMini_MP2315GJ_5V_Panel.TXT]
+   Generated File[Module_BuckMini_MP2315GJ_5V_Panel.LDP]
+   Generated File[Module_BuckMini_MP2315GJ_5V_Panel.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:06:37 AM On 10/28/2023
